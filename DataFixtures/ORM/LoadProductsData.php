@@ -17,7 +17,7 @@ use Sylius\Bundle\AssortmentBundle\Model\CustomizableProductInterface;
 use Sylius\Bundle\SandboxBundle\Entity\Product;
 
 /**
- * Default assortment products to play with Sylius sandbox.
+ * Default assortment products.
  *
  * @author Paweł Jędrzejewski <pjedrzejewski@diweb.pl>
  */

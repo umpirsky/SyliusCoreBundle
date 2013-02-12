@@ -14,7 +14,7 @@ namespace Sylius\Bundle\CoreBundle\DataFixtures\ORM;
 use Doctrine\Common\Persistence\ObjectManager;
 
 /**
- * Default assortment product options to play with sandbox.
+ * Default assortment product options.
  *
  * @author Paweł Jędrzejewski <pjedrzejewski@diweb.pl>
  */
